@@ -1,7 +1,7 @@
 # Project Description
 
 ## ExpenseApp
-Expense App from udemy course: <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">React - The Complete Guide</a>  by Maximilian Schwarxmuller
+Expense App from udemy course: <a href="https://www.udemy.com/course/react-the-complete-guide-incl-redux/">React - The Complete Guide</a>  by Maximilian Schwarzmuller
 
 To use this app, clone or download and then use 'npm install' command on terminal 
 
